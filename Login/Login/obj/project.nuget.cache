@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/G5BvIis4K0iSEqX/AczAR4jqDZfRhtaW93RxCs9/KFR28nyGXJMuUMkt8FC8hfUttPkovV1Ihl+AIjtGKfz/w==",
+  "success": true,
+  "projectFilePath": "D:\\Simple learn\\Assisted project_phase-3\\Assisted project 1\\Login\\Login\\Login.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Venkatesh\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Venkatesh\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

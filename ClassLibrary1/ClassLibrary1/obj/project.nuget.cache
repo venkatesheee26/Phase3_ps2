@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mQwoPD3neSubjYrygEdaYinGBlFl1xnUqoiuIgiq2kWRlP7/YZpvWH8EMjA9I3V76HvzDGdj/AM+Nj7UtuUhTQ==",
+  "success": true,
+  "projectFilePath": "D:\\Simple learn\\Assisted project_phase-3\\Assisted project 1\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Venkatesh\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
